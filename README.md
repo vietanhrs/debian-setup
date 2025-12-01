@@ -1,5 +1,36 @@
 # debian-setup
 Setup my Debian Distro
+```
+        _,met$$$$$gg.          anhtv@nitroV
+     ,g$$$$$$$$$$$$$$$P.       ------------
+   ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12.12 (bookworm) x86_64
+  ,$$P'              `$$$.     Host: Nitro ANV15-51 (V1.26)
+',$$P       ,ggs.     `$$b:    Kernel: Linux 6.1.0-41-amd64
+`d$$'     ,$P"'   .    $$$     Uptime: 51 mins
+ $$P      d$'     ,    $$P     Packages: 1992 (dpkg), 8 (flatpak)
+ $$:      $$.   -    ,d$$'     Shell: zsh 5.9
+ $$;      Y$b._   _,d$P'       Display (C24F390): 1920x1080 in 24", 60 Hz [External] *
+ Y$$.    `.`"Y$$$$P"'          Display (BOE0B02): 1920x1080 in 16", 144 Hz [Built-in]
+ `$$b      "-.__               DE: GNOME 43.9
+  `Y$$b                        WM: Mutter (X11)
+   `Y$$.                       WM Theme: Adwaita
+     `$$b.                     Theme: Adwaita [GTK2/3/4]
+       `Y$$b.                  Icons: Adwaita [GTK2/3/4]
+         `"Y$b._               Font: Cantarell (11pt) [GTK2/3/4]
+             `""""             Cursor: Adwaita (24px)
+                               Terminal: ghostty 1.1.3
+                               Terminal Font: Source Code Pro Medium (10pt)
+                               CPU: 13th Gen Intel(R) Core(TM) i7-13620H (16) @ 4.90 GHz
+                               GPU 1: NVIDIA GeForce RTX 2050 [Discrete]
+                               GPU 2: Intel UHD Graphics @ 1.50 GHz [Integrated]
+                               Memory: 9.04 GiB / 23.18 GiB (39%)
+                               Swap: 0 B / 976.00 MiB (0%)
+                               Disk (/): 11.18 GiB / 466.95 GiB (2%) - ext4
+                               Disk (/home): 94.60 GiB / 915.82 GiB (10%) - ext4
+                               Local IP (wlp0s20f3): 192.168.1.103/24
+                               Battery (AP18E7M): 100% [AC Connected]
+                               Locale: en_US.UTF-8
+```
 
 ## Necessary .deb files
 [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
