@@ -32,6 +32,13 @@ Setup my Debian Distro
                                Locale: en_US.UTF-8
 ```
 
+## Permanently set the MTU to 1490 to prevent slow page loading
+```bash
+nmcli connection show
+sudo nmcli connection modify "<wifi name>" wifi.mtu 1490
+sudo nmcli connection up "<wifi name>"
+```
+
 ## Necessary .deb files
 [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
 [Google Chrome](https://www.google.com/intl/vi/chrome/next-steps.html)
